@@ -4,7 +4,11 @@ import viteLogo from "/vite.svg"
 import "./App.css"
 
 function App() {
-  return <></>
+  return (
+    <>
+      <h1>LinkedIn Clone</h1>
+    </>
+  )
 }
 
 export default App

@@ -6,7 +6,13 @@ import "./App.css"
 function App() {
   return (
     <>
-      <h1>LinkedIn Clone</h1>
+      <h1 className="linkedin-title">LinkedIn</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero
+        inventore quam suscipit, pariatur ab illo nisi aliquam debitis natus,
+        magni corporis quis architecto? Placeat, vero aliquid reiciendis quo
+        aperiam accusantium!
+      </p>
     </>
   )
 }
